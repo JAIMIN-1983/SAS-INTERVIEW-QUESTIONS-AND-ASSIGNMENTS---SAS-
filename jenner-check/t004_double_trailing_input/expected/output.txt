@@ -1,0 +1,10 @@
+
+  Obs       Name  Age           City  Salary
+-----  ---------  ---  -------------  ------
+    1  Mohan       26  Machalipatnam   25000
+    2  prasad      27  Razol           28000
+    3  Moksha      28  Machalipatnam   40000
+    4  bharadwaj   26  Kottagudam      25000
+    5  uma         25  Amalapuram      35000
+    6  pavan       27  Vijayawada      33000
+

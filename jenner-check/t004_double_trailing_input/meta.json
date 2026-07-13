@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_double_trailing_input",
+  "source_file": "Chapter 20 & 21 assignment - SAS Software.docx (Q-1 answer, \"Double Trailing method @@\")",
+  "source_blob_sha": "n/a - transcribed from Word document body text (word/document.xml), no upstream .sas file for this chapter",
+  "source_commit": "0b12a7df9ebdfab2a207633345fccc03fb5257ca",
+  "notes": "Chapter 20/21 Q-1: read two logical records per physical input line using the @@ double-trailing line-hold specifier (Input Name $ Age City $ Salary @@;). Transcribed the DATA/INPUT/Cards statements and inline data verbatim from the doc's answer (including its Cards block with no explicit terminating ';' before 'run;', which Jenner accepted the same way real SAS does), appended PROC PRINT. Produces 6 correctly split observations from 3 input lines, matching the doc's intent."
+}
