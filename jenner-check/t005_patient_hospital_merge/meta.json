@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_patient_hospital_merge",
+  "source_file": "Chapter 13 assignment - SAS Software.docx (Q-3 answer)",
+  "source_blob_sha": "n/a - transcribed from Word document body text (word/document.xml), no upstream .sas file for this chapter",
+  "source_commit": "0b12a7df9ebdfab2a207633345fccc03fb5257ca",
+  "notes": "Chapter 13 Q-3: many-to-one merge by ID assigning Hospital to each patient visit (patients: ID+VisitDate with date9. informat/format; hospital: ID+Hospital, missing ID 103). Transcribed the DATA/INPUT/format/merge statements verbatim from the doc's answer, supplied the small datalines blocks it shows inline, appended PROC PRINT. Confirms the doc's own callout: ID 103 keeps its VisitDate (10JAN2024) but Hospital comes back missing since 103 has no hospital record."
+}

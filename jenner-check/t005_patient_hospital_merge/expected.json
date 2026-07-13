@@ -1,0 +1,16 @@
+{
+  "_captured_at": "2026-07-13T04:08:00Z",
+  "_captured_run_id": "r_90b2743a71f04941a38e7571fe9786d5",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA patients",
+    "NOTE: DATA hospital",
+    "NOTE: Wrote patients (3 rows, 2 columns).",
+    "NOTE: Wrote hospital (2 rows, 2 columns).",
+    "NOTE: Wrote Combined (3 rows, 3 columns).",
+    "NOTE: PROC PRINT completed: 3 observations printed, 3 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

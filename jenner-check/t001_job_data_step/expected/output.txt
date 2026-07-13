@@ -1,0 +1,8 @@
+
+  Obs  Name  Salary  Age     Desc       City  Country
+-----  ----  ------  ---  -------  ---------  -------
+    1  Neha   30000   32  MD       Bangalore  India
+    2  Sita   40000   23  Teacher  Mumbai     India
+    3  San    32000   32  HR       London     UK
+    4  Raja   32000   32  HR       London     UK
+

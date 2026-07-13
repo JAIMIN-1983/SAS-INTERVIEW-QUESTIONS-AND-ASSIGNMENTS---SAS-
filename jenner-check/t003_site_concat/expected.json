@@ -1,0 +1,16 @@
+{
+  "_captured_at": "2026-07-13T04:02:00Z",
+  "_captured_run_id": "r_419a8a5ec56942898b2ec12e2527f79a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA site1",
+    "NOTE: DATA site2",
+    "NOTE: Wrote site1 (2 rows, 2 columns).",
+    "NOTE: Wrote site2 (2 rows, 2 columns).",
+    "NOTE: Wrote all_sites (4 rows, 2 columns).",
+    "NOTE: PROC PRINT completed: 4 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

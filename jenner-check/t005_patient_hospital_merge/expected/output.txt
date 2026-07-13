@@ -1,0 +1,7 @@
+
+  Obs   ID  VisitDate  Hospital
+-----  ---  ---------  --------
+    1  101  01JAN2024  Apollo
+    2  102  05JAN2024  Fortis
+    3  103  10JAN2024
+

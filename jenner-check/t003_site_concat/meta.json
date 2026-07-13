@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_site_concat",
+  "source_file": "Chapter 13 assignment - SAS Software.docx (Q-4 answer)",
+  "source_blob_sha": "n/a - transcribed from Word document body text (word/document.xml), no upstream .sas file for this chapter",
+  "source_commit": "0b12a7df9ebdfab2a207633345fccc03fb5257ca",
+  "notes": "Chapter 13 Q-4: concatenate two site datasets (site1: A01/A02, site2: B01/B02) via SET site1 site2; into all_sites. Transcribed the DATA/SET statements verbatim from the assignment doc's answer, supplied the small datalines blocks the doc shows inline, and appended PROC PRINT. Output data is fully correct (4 rows: A01, A02, B01, B02). Note: the captured log's per-source 'Read N rows from <dataset>' NOTE for the second+ source in a concatenating SET reports a cumulative running total rather than that source's own row count (observed 'Read 4 rows from site2' when site2 has 2 rows) -- a known, already-tracked-and-fixed Jenner log-cosmetics bug (internal tracking only), not a data-correctness issue. expected.json intentionally does not pin that line."
+}

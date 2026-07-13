@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_job_data_step",
+  "source_file": "Chapter - 5  assignment.sas",
+  "source_blob_sha": "0f35abff85f43e216467d8d340311ec3ab77cba5",
+  "source_commit": "0b12a7df9ebdfab2a207633345fccc03fb5257ca",
+  "notes": "Chapter 5 assignment answer: DATA step reads 4 employee records (Name, Salary, Age, Desc, City, Country) via inline Cards/DATALINES. Byte-identical DATA step kept from source; appended a PROC PRINT (no edits to the original logic) since the source file builds the JOB dataset but never prints it, so a bare run produces no observable listing otherwise. No external data or paths involved."
+}
